@@ -11,7 +11,7 @@
   },
   {
     "id": 1,
-    "judul": "Mantap Wir",
+    "judul": "Kartun Wir",
     "url": "https://i.ibb.co/2dNWVv6/FB-IMG-1713981944555.jpg"
   }
 ]
