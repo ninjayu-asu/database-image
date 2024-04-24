@@ -16,7 +16,7 @@
   },
   {
     "id": 1,
-    "judul": "Kartun Wir",
+    "judul": "Boneka Wir",
     "url": "https://i.ibb.co/BZ7Sx8Q/FB-IMG-1713983606863.jpg"
   }
 ]
