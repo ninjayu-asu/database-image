@@ -7,6 +7,6 @@
   {
     "id": 2,
     "judul": "Mantap Wir",
-    "url": "https://i.ibb.co/87qZ7Sm/FB-IMG-1713020387602.jpg"
+    "url": "https://i.ibb.co/wCt6fmL/Screenshot-484.png"
   }
 ]
