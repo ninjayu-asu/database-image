@@ -18,5 +18,9 @@
     "id": 1,
     "judul": "Boneka Wir",
     "url": "https://i.ibb.co/BZ7Sx8Q/FB-IMG-1713983606863.jpg"
+  },{
+    "id": 1,
+    "judul": "Digigit Tawon",
+    "url": "https://i.ibb.co/PN7XMSg/FB-IMG-1713982512239.jpg"
   }
 ]
